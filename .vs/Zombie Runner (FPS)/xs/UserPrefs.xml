@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{F6059515-B278-7881-8F9B-6FFCD1354393}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_Text.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_Text.cs" Line="6081" Column="1" />
+      <File FileName="Assets/Scripts/EnemyAttack.cs" Line="8" Column="37" />
+      <File FileName="Assets/Scripts/WeaponSwitcher.cs" />
+      <File FileName="Assets/Scripts/YouSurvived.cs" />
+      <File FileName="Assets/Scripts/PlayerHealth.cs" />
+      <File FileName="Assets/Scripts/DeathHandler.cs" />
+      <File FileName="Assets/Asset Packs/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs" />
+      <File FileName="Assets/Scripts/EnemyAI.cs" />
+      <File FileName="Assets/Scripts/DisplayDamage.cs" />
+      <File FileName="Assets/Scripts/EnemyHealth.cs" />
+      <File FileName="Assets/Asset Packs/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs" />
+      <File FileName="Assets/Asset Packs/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt" />
+      <File FileName="Assets/Asset Packs/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zombie Runner (FPS)" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Asset Packs" expanded="True">
+                <Node name="Standard Assets" expanded="True">
+                  <Node name="CrossPlatformInput" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="EnemyAttack.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1e687eb3-a6bf-4f50-bca0-36c1a9c27217" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
